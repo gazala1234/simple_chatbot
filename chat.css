@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+}
+
+input {
+    width: 70%;
+}
+
+#Heading {
+    text-align: center;
+    font: bold;
+    color: black;
+    font-size: 30px;
+}
